@@ -2,7 +2,7 @@
 
 This project is web view based in Flutter, from one of my clients. See the screenshots attached with this repo, I have other FlutterFlow projects too.
 
-✔️ Sound NullSafety
+✔️ Sound NullSafety <br />
 ✔️ FlutterFlow <br />
 ✔️ WebView <br />
 
