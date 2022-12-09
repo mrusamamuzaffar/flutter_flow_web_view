@@ -14,8 +14,8 @@ This project is web view based in Flutter, from one of my clients. See the scree
 
 <p align="center">
   <img 
-    width=40%
-    height=40%
+    width=80%
+    height=80%
     src="https://user-images.githubusercontent.com/101565812/206675821-409a6eb9-3f0f-4211-b140-c3c5eea6ec66.png">
 </p>
 
