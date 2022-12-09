@@ -25,6 +25,6 @@ This project is web view based in Flutter, from one of my clients. See the scree
   <img 
     width=40%
     height=40%
-    src="https://user-images.githubusercontent.com/101565812/205629058-fce5553f-a4d5-42a6-8382-15042c2a9452.gif">
+    src="https://user-images.githubusercontent.com/101565812/206677954-5e7a0788-6293-4e7e-92ec-8c874eff9916.gif">
 </p>
 
